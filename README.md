@@ -1,30 +1,30 @@
-# Sistema de Matrícula
+# 😆 Sistema de Matrícula
 
-# Desenvolvedor: Pedro Vinícius de Almeida Thomaz (06014305)
+# 😇 Desenvolvedor: Pedro Vinícius de Almeida Thomaz (06014305)
 
 # Descrição
 Esse sistema é uma aplicação de DataFrame de forma simples e objetiva, desenvolvida em Python. 
 
-# O que resolve
+# ❓ O que resolve
 Basicamente é um sistema que cria uma matrícula de forma rápido e fácil. 
 
-# Como usar
+# 💁 Como usar
 O usuário executa o sistema e segue as instruções interativas!
 
-# Instruções de uso
+# 💬 Instruções de uso
 # Pré-requisitos
 Tenha a versão do Python 3.14.0 instalado
 
-# Instalação de dependências
+# 💿 Instalação de dependências
 Este projeto utiliza algumas bibliotecas que necessitam de uma instalação para executar o código
 
-# Navegue até a pasta do projeto
+# 💻 Navegue até a pasta do projeto
         cd projeto-unifeso1/
 
-# Instale as dependências listadas no requirements.txt
+# 🖱️ Instale as dependências listadas no requirements.txt
         pip install -r requirements.txt
 
-# Como executar: Execute o arquivo principal no seu terminal
+# 🔎 Como executar: Execute o arquivo principal no seu terminal
         python main.py
 
 # Exemplos de comandos de execução
@@ -49,3 +49,4 @@ Digite o Email: --------
 Aluno Luiz cadastrado com a seguinte matrícula: 2
 
  Os dados foram salvos!
+
