@@ -12,7 +12,7 @@ Basicamente é um sistema que cria uma matrícula de forma rápido e fácil.
 O usuário executa o sistema e segue as instruções interativas!
 
 # 💬 Instruções de uso
-# Pré-requisitos
+# 📕 Pré-requisitos
 Tenha a versão do Python 3.14.0 instalado
 
 # 💿 Instalação de dependências
